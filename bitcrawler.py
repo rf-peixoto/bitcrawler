@@ -64,8 +64,9 @@ def main_menu():
         print("2. Query Transaction")
         print("3. Load Previously Dumped Chain")
         print("4. Exit")
+        print("Type 'm' anytime to return here, or 'exit' to quit")
         print("----------")
-        print("Type 'm' anytime to return here, or 'exit' to quit." + Style.RESET_ALL)
+        print("Support this project! bc1q8sptfr88g886xpxtjkmh26cvvf8sfm782yu5yp" + Style.RESET_ALL)
 
         choice = input(Fore.YELLOW + "Enter option: " + Style.RESET_ALL).strip().lower()
         choice = check_special_commands(choice)
