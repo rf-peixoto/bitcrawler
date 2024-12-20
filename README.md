@@ -29,3 +29,7 @@ Bitcrawler is a simple blockchain explorer via terminal. It allows you to analyz
 ## Support
 
 - You can help this project by donating some sats to `bc1q8sptfr88g886xpxtjkmh26cvvf8sfm782yu5yp`
+
+## Screenshots
+![Bitcralwer](https://github.com/rf-peixoto/bitcrawler/blob/master/samples/imgA.png)
+![Bitcrawler](https://github.com/rf-peixoto/bitcrawler/blob/master/samples/imgB.png)
