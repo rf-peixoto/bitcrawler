@@ -1,5 +1,5 @@
 # Bitcrawler
-Bitcrawler is a simple blockchain explorer via terminal. It allows you to analyze the transactions of a wallet, follow the inputs and outputs, dump a chain of outputs to your current wallet.
+Bitcrawler is a simple bitcoin blockchain (mainnet) explorer via terminal. It allows you to analyze the transactions of a wallet, follow the inputs and outputs, dump a chain of outputs to your current wallet.
 
 ## Features
 
